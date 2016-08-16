@@ -1,3 +1,8 @@
 Hamblaster.
 Modifica ore 16:36 del 13/08/16
+<<<<<<< HEAD
 Altra modifica per test commit da github desktop (16/08/16)
+=======
+
+Altra modifica fatta direttamente dal sito github
+>>>>>>> origin/master
