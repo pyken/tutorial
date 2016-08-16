@@ -1,2 +1,3 @@
 Hamblaster.
 Modifica ore 16:36 del 13/08/16
+Altra modifica per test commit da github desktop (16/08/16)
